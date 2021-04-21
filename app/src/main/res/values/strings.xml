@@ -7,4 +7,16 @@
     <string name="nome_user"></string>
     <string name="voltar_login">Voltar para tela de login</string>
     <string name="voltar_splash">Voltar para tela Splash</string>
+
+    <string name="item1">Opção 1</string>
+    <string name="item2">Opção 2</string>
+    <string name="item3">Opção 3</string>
+
+    <string name="switch1">BTC</string>
+    <string name="switch2">Dolar</string>
+    <string name="switch3">Euro</string>
+    <string name="switch4">ETH</string>
+
+
+    <string name="titleActionBar">Time Is Money</string>
 </resources>
